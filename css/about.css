@@ -1,0 +1,27 @@
+html, body {
+    margin: 0px;
+
+}
+canvas {
+    display: block;
+}
+.title {
+    color: #FFF;
+    position: absolute;
+    top: 8px;
+    left: 12px;
+    font-family: verdana;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: bold;
+}
+.name{
+    color: #FFF;
+    position: relative;
+    top: 8px;
+    left: 12px;
+    font-family: verdana;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: bold;
+}
