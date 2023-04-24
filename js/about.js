@@ -117,7 +117,7 @@ p.update = function () {
     context.lineTo(0, 0);
     context.lineTo(-size / 2 * 1.732, size / 2);
     context.lineTo(-size / 2 * 1.2, 0);
-    context.fillStyle = 'white';
+    context.fillStyle = '#A6A6A6';
     context.fill();
 
     context.restore();
